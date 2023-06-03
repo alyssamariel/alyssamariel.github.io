@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Alyssa Mariel, a skilled and versatile Full Stack Web Developer with 2 years of professional experience. Throughout my journey, I have honed my expertise in a wide range of technologies, including HTML, CSS, Bootstrap, JavaScript, PHP, ReactJS, Wordpress, Java, Angular, C#, .NET, and TypeScript.
+
+In addition to my technical proficiency, I possess knowledge in WordPress and SEO, enabling me to create impactful and optimized websites. Furthermore, I have developed a flair for multimedia editing and am adept at utilizing Adobe Creative Cloud for photo and video edits.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
